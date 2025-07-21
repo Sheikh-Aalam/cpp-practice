@@ -1,3 +1,4 @@
+//declare and initialize varaibles of data type double.
 #include <iostream>
 
 int main()
