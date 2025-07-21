@@ -1,0 +1,14 @@
+# Ignore object files and binaries
+*.o
+*.out
+*.exe
+
+# Ignore build directories
+/build/
+/bin/
+/Debug/
+/Release/
+
+# OS generated files
+.DS_Store
+Thumbs.db
