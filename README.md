@@ -6,7 +6,8 @@ This repository contains C++ programs that I am learning and building as part of
 
 ## 📁 Folder Structure
 
-###cpp-practice/
+cpp-practice/
+
 ├── basics/ # Programs on syntax, I/O, variables, etc.
 
 
