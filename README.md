@@ -18,10 +18,14 @@ cpp-practice/
 
 
 
-#Topics covered
 
-##	C++ syntax and structure
-## Basic operations and functions
+---
+
+## 📌 Topics Covered
+
+- **C++ syntax and structure**
+- **Basic operations and functions**
+
 
 ##To Do
 
