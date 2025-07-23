@@ -27,15 +27,15 @@ cpp-practice/
 - **Basic operations and functions**
 
 
-##To Do
+## To Do
 
 Add more programs as the journey progresses.
 
-##About Me
+## About Me
 
 I'm a B.Tech IT student learning C++ and using GitHub to track my progress. This repo is part of my journey to become a better programmer.
 
-##📬 Contact
+## 📬 Contact
 
 Feel free to reach out if you have any suggestions or want to collaborate.
 
