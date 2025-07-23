@@ -18,7 +18,7 @@ cpp-practice/
 
 
 
-###Topics covered
+#Topics covered
 
 ##	C++ syntax and structure
 ## Basic operations and functions
