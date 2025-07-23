@@ -8,12 +8,16 @@ This repository contains C++ programs that I am learning and building as part of
 
 cpp-practice/
 
-├── basics/ # Programs on syntax, I/O, variables, etc.
+├── 01_basics/ # Programs on syntax, I/O, variables, etc.
+├── 02_operations/ # Programs on relational, logical operations, etc.
+├── 03_output_formatting/ # Programs on functions like endl, flush, setw, etc.
+├── 04_maths_functions/ # Programs on cmath library functions like pow, sqrt, etc.
 
 
 ##Topics covered
 
 ###	C++ syntax and structure
+### Basic operations and functions
 
 ##To Do
 
