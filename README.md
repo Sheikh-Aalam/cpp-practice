@@ -28,7 +28,7 @@ cpp-practice/
 
 - **C++ syntax and structure**
 - **Basic operations and functions**
-- **Bitwise operators
+- **Bitwise operators**
 
 
 ## To Do
