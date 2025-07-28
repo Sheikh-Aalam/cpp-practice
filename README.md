@@ -16,6 +16,9 @@ cpp-practice/
 
 ├── 04_maths_functions/ # Programs on cmath library functions like pow, sqrt, etc.
 
+├── 05_data_conversions/ # Programs on implicit and explicit data conversions , data overflow , etc.
+
+├── 06_bitwise_operators/ # Programs on bitset, shift operators , logical operators, etc.
 
 
 
@@ -25,6 +28,7 @@ cpp-practice/
 
 - **C++ syntax and structure**
 - **Basic operations and functions**
+- **Bitwise operators
 
 
 ## To Do
